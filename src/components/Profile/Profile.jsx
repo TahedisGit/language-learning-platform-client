@@ -36,7 +36,7 @@ export default function Profile() {
         .then((res) => setUserData(res.data))
         .catch((err) => {
           setError("Failed to fetch user data.");
-          console.error("Fetch error:", err);
+          // console.error("Fetch error:", err);
         });
     }
   }, [loading, firebaseUser]);

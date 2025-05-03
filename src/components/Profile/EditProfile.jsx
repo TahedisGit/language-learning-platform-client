@@ -2,6 +2,8 @@ import React, { useState, useEffect } from "react";
 import axios from "axios";
 import { useNavigate } from "react-router-dom";
 import { getAuth, onAuthStateChanged } from "firebase/auth";
+import { toast, ToastContainer } from "react-toastify";
+import "react-toastify/dist/ReactToastify.css";
 
 export default function EditProfile() {
   const auth = getAuth();
@@ -79,15 +81,42 @@ export default function EditProfile() {
         }
       );
 
-      if (response.data.success) {
-        alert("Profile updated successfully!");
-        navigate(-1);
+      if (response?.data?.success) {
+        toast.success("Profile updated successfully!", {
+          position: "top-right",
+          autoClose: 2000,
+          hideProgressBar: false,
+          closeOnClick: false,
+          pauseOnHover: true,
+          draggable: true,
+          progress: undefined,
+          theme: "colored",
+        });
+        setTimeout(() => navigate(-1), 1000);
       } else {
-        alert("Profile update failed.");
+        toast.error("Profile update failed.", {
+          position: "top-right",
+          autoClose: 2000,
+          hideProgressBar: false,
+          closeOnClick: false,
+          pauseOnHover: true,
+          draggable: true,
+          progress: undefined,
+          theme: "colored",
+        });
       }
     } catch (err) {
-      console.error("Update failed:", err);
-      alert("Something went wrong.");
+      // console.error("Update failed:", err);
+      toast.error("Something went wrong.", {
+        position: "top-right",
+        autoClose: 2000,
+        hideProgressBar: false,
+        closeOnClick: false,
+        pauseOnHover: true,
+        draggable: true,
+        progress: undefined,
+        theme: "colored",
+      });
     }
   };
 
@@ -211,6 +240,7 @@ export default function EditProfile() {
           </button>
         </div>
       </form>
+      <ToastContainer />
     </div>
   );
 }

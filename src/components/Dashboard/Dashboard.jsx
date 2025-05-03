@@ -44,7 +44,7 @@ export default function Dashboard() {
         );
         setStudentData(response.data);
       } catch (error) {
-        console.error("Failed to fetch student data:", error);
+        // console.error("Failed to fetch student data:", error);
         setStudentData({ student_id: currentUser.email, exams: [] });
       } finally {
         setLoading(false);
