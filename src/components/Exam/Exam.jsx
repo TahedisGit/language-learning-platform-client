@@ -34,7 +34,7 @@ export default function Exam() {
         "https://language-learning-platform-server.onrender.com/submit-exam",
         examData
       );
-      console.log("Exam submitted successfully:", response.data);
+      // console.log("Exam submitted successfully:", response.data);
     } catch (error) {
       console.error("Failed to submit exam:", error);
     }
@@ -127,7 +127,7 @@ export default function Exam() {
       date: new Date().toISOString().split("T")[0],
       status: roundedScore >= 60 ? "passed" : "failed",
     };
-    console.log("examData", examData);
+    // console.log("examData", examData);
     submitExam(examData);
   };
 

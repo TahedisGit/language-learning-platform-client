@@ -100,10 +100,11 @@ export default function EditProfile() {
   }
 
   return (
-    <div className="w-10/12 mx-auto mt-20">
+    <div className="max-w-3xl mx-auto mt-10 px-4">
       <h2 className="text-2xl font-bold mb-6 text-center">
         Update Your Profile
       </h2>
+
       <form
         onSubmit={handleSubmit}
         className="grid grid-cols-1 md:grid-cols-2 gap-6"
@@ -114,7 +115,7 @@ export default function EditProfile() {
           </label>
           <input
             id="name"
-            className="w-full p-3 border rounded"
+            className="w-full p-3 border rounded focus:outline-none focus:ring focus:border-blue-300"
             name="name"
             placeholder="Name"
             value={formData.name || ""}
@@ -128,7 +129,7 @@ export default function EditProfile() {
           </label>
           <input
             id="phone"
-            className="w-full p-3 border rounded"
+            className="w-full p-3 border rounded focus:outline-none focus:ring focus:border-blue-300"
             name="phone"
             placeholder="Phone"
             value={formData.phone || ""}
@@ -142,7 +143,7 @@ export default function EditProfile() {
           </label>
           <input
             id="dateOfBirth"
-            className="w-full p-3 border rounded"
+            className="w-full p-3 border rounded focus:outline-none focus:ring focus:border-blue-300"
             name="dateOfBirth"
             type="date"
             value={formData.dateOfBirth || ""}
@@ -159,7 +160,7 @@ export default function EditProfile() {
             name="gender"
             value={formData.gender || ""}
             onChange={handleChange}
-            className="w-full p-3 border rounded"
+            className="w-full p-3 border rounded focus:outline-none focus:ring focus:border-blue-300"
           >
             <option value="">Choose Gender</option>
             <option value="Male">Male</option>
@@ -174,7 +175,7 @@ export default function EditProfile() {
           </label>
           <textarea
             id="address"
-            className="w-full p-3 border rounded"
+            className="w-full p-3 border rounded focus:outline-none focus:ring focus:border-blue-300"
             name="address"
             placeholder="Address"
             value={formData.address || ""}
@@ -189,24 +190,26 @@ export default function EditProfile() {
           <input
             id="photo"
             type="file"
-            className="w-full p-3 border rounded"
+            className="w-full p-3 border rounded focus:outline-none focus:ring focus:border-blue-300"
             onChange={handleFileChange}
           />
         </div>
 
-        <button
-          type="submit"
-          className="bg-blue-500 text-white py-2 px-4 rounded col-span-2"
-        >
-          Save Changes
-        </button>
-        <button
-          type="button"
-          className="bg-gray-500 text-white py-2 px-4 rounded col-span-2"
-          onClick={handleCancel}
-        >
-          Cancel
-        </button>
+        <div className="md:col-span-2 flex flex-col sm:flex-row gap-4">
+          <button
+            type="submit"
+            className="bg-blue-500 text-white py-2 px-4 rounded w-full sm:w-auto"
+          >
+            Save Changes
+          </button>
+          <button
+            type="button"
+            className="bg-gray-500 text-white py-2 px-4 rounded w-full sm:w-auto"
+            onClick={handleCancel}
+          >
+            Cancel
+          </button>
+        </div>
       </form>
     </div>
   );
