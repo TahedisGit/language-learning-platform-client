@@ -1,0 +1,58 @@
+[
+  {
+    "_id": 1,
+    "name": "Tahedi Soyad",
+    "occupation": "Student",
+    "review": "This English learning platform has completely changed the way I teach professionals. The real-world dialogues and business-focused vocabulary help my clients communicate clearly and confidently in international meetings and presentations.",
+    "image": "https://i.ibb.co.com/qMdZyPPJ/Whats-App-Image-2025-04-14-at-18-59-01-a418c7a1.jpg"
+  },
+  {
+    "_id": 2,
+    "name": "Md.Abir Arefin Khan",
+    "occupation": "Student",
+    "review": "An excellent tool for students preparing for academic environments. The platform offers strong grammar explanations and academic vocabulary that are essential for essay writing, lectures, and research discussions. It’s become a key part of my curriculum.",
+    "image": "https://i.ibb.co.com/6p1jxLG/Whats-App-Image-2025-04-14-at-18-58-44-cdd2094e.jpg"
+  },
+  {
+    "_id": 3,
+    "name": "Shuyara Jahan Tusha",
+    "occupation": "Student",
+    "review": "The platform blends grammar, vocabulary, and real-life context in a way that's fun and engaging. It’s ideal for learners who want to build fluency while also understanding how English is used in different cultural and everyday scenarios.",
+    "image": "https://i.ibb.co.com/YBwY74k0/Whats-App-Image-2025-04-14-at-18-59-02-83cabe91.jpg"
+  },
+  {
+    "_id": 4,
+    "name": "Mokarrom Bahser",
+    "occupation": "Student",
+    "review": "From a technical and educational standpoint, this English learning app is one of the best. The pronunciation AI is impressively accurate, and the lesson progression feels natural. I even use it myself to refine my own communication skills.",
+    "image": "https://i.ibb.co.com/p6PGLY0X/Whats-App-Image-2025-04-14-at-18-59-01-3897167f.jpg"
+  },
+  {
+    "_id": 5,
+    "name": "Tahedi Soyad",
+    "occupation": "Student",
+    "review": "This English learning platform has completely changed the way I teach professionals. The real-world dialogues and business-focused vocabulary help my clients communicate clearly and confidently in international meetings and presentations.",
+    "image": "https://i.ibb.co.com/qMdZyPPJ/Whats-App-Image-2025-04-14-at-18-59-01-a418c7a1.jpg"
+  },
+  {
+    "_id": 6,
+    "name": "Shuyara Jahan Tusha",
+    "occupation": "Student",
+    "review": "The platform blends grammar, vocabulary, and real-life context in a way that's fun and engaging. It’s ideal for learners who want to build fluency while also understanding how English is used in different cultural and everyday scenarios.",
+    "image": "https://i.ibb.co.com/YBwY74k0/Whats-App-Image-2025-04-14-at-18-59-02-83cabe91.jpg"
+  },
+  {
+    "_id": 7,
+    "name": "Md.Abir Arefin Khan",
+    "occupation": "Student",
+    "review": "An excellent tool for students preparing for academic environments. The platform offers strong grammar explanations and academic vocabulary that are essential for essay writing, lectures, and research discussions. It’s become a key part of my curriculum.",
+    "image": "https://i.ibb.co.com/6p1jxLG/Whats-App-Image-2025-04-14-at-18-58-44-cdd2094e.jpg"
+  },
+  {
+    "_id": 8,
+    "name": "Mokarrom Bahser",
+    "occupation": "Student",
+    "review": "From a technical and educational standpoint, this English learning app is one of the best. The pronunciation AI is impressively accurate, and the lesson progression feels natural. I even use it myself to refine my own communication skills.",
+    "image": "https://i.ibb.co.com/p6PGLY0X/Whats-App-Image-2025-04-14-at-18-59-01-3897167f.jpg"
+  }
+]

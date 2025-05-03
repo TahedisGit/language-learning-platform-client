@@ -1,0 +1,99 @@
+{
+  "bundles": [
+    {
+      "bundleName": "Grammar & Vocabulary Mastery",
+      "bundleId": "grammar-vocab",
+      "price": 599,
+      "currency": "BDT",
+      "isPurchased": false,
+      "packages": [
+        { "packageName": "Grammar-Based Packages", "packageId": "grammar" },
+        {
+          "packageName": "Vocabulary Builder Packages",
+          "packageId": "vocabulary"
+        }
+      ]
+    },
+    {
+      "bundleName": "English for Real-Life Use",
+      "bundleId": "real-life-story",
+      "price": 749,
+      "currency": "BDT",
+      "isPurchased": false,
+      "packages": [
+        {
+          "packageName": "Real-Life Situations Packages",
+          "packageId": "real-life"
+        },
+        {
+          "packageName": "Story-Based Learning Packages",
+          "packageId": "story-based"
+        }
+      ]
+    },
+    {
+      "bundleName": "Listening Practice - Travel & City Life",
+      "bundleId": "listening-travel-city",
+      "price": 499,
+      "currency": "BDT",
+      "isPurchased": false,
+      "packages": [
+        {
+          "packageName": "Personal Travel Experience in Sydney",
+          "packageId": "listening-1"
+        },
+        {
+          "packageName": "City Map Navigation and Landmarks",
+          "packageId": "listening-2"
+        },
+        {
+          "packageName": "Improvements in Area Attractions",
+          "packageId": "listening-3"
+        }
+      ]
+    },
+    {
+      "bundleName": "Academic Listening Essentials",
+      "bundleId": "academic-listening",
+      "price": 649,
+      "currency": "BDT",
+      "isPurchased": false,
+      "packages": [
+        {
+          "packageName": "Dissertation Preparation and Expectations",
+          "packageId": "listening-4"
+        },
+        {
+          "packageName": "Final Report Guidelines and Submission Details",
+          "packageId": "listening-5"
+        }
+      ]
+    },
+    {
+      "bundleName": "Complete Learning Experience",
+      "bundleId": "all-in-one",
+      "price": 1299,
+      "currency": "BDT",
+      "isPurchased": false,
+      "packages": [
+        { "packageName": "Grammar-Based Packages", "packageId": "grammar" },
+        {
+          "packageName": "Vocabulary Builder Packages",
+          "packageId": "vocabulary"
+        },
+        {
+          "packageName": "Skill-Level Based Packages",
+          "packageId": "skill-level"
+        },
+        {
+          "packageName": "Real-Life Situations Packages",
+          "packageId": "real-life"
+        },
+        {
+          "packageName": "Story-Based Learning Packages",
+          "packageId": "story-based"
+        }
+      ]
+    }
+  ]
+}

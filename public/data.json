@@ -1,0 +1,1337 @@
+{
+  "packages": [
+    {
+      "name": "Grammar-Based Packages",
+      "type": "reading",
+      "package_id": "grammar",
+      "questions": [
+        {
+          "id": "grammar-1",
+          "type": "reading",
+          "subtype": "multiple-choice",
+          "questionText": "Choose the correct form of the verb: She _____ to the market every day.",
+          "clue": "Consider the present tense form for third-person singular subjects.",
+          "options": [
+            { "text": "go", "isCorrect": false, "option_id": "option-1" },
+            { "text": "goes", "isCorrect": true, "option_id": "option-2" },
+            { "text": "going", "isCorrect": false, "option_id": "option-3" },
+            { "text": "gone", "isCorrect": false, "option_id": "option-4" }
+          ]
+        },
+        {
+          "id": "grammar-2",
+          "type": "reading",
+          "subtype": "multiple-choice",
+          "questionText": "Identify the correct sentence.",
+          "clue": "Watch for correct punctuation and structure.",
+          "options": [
+            {
+              "text": "They going to school.",
+              "isCorrect": false,
+              "option_id": "option-1"
+            },
+            {
+              "text": "They goes to school.",
+              "isCorrect": false,
+              "option_id": "option-2"
+            },
+            {
+              "text": "They go to school.",
+              "isCorrect": true,
+              "option_id": "option-3"
+            },
+            {
+              "text": "They gone school.",
+              "isCorrect": false,
+              "option_id": "option-4"
+            }
+          ]
+        },
+        {
+          "id": "grammar-3",
+          "type": "reading",
+          "subtype": "multiple-choice",
+          "questionText": "Fill in the blank: If I _____ rich, I would travel the world.",
+          "clue": "Use the past tense form for unreal conditionals.",
+          "options": [
+            { "text": "am", "isCorrect": false, "option_id": "option-1" },
+            { "text": "was", "isCorrect": false, "option_id": "option-2" },
+            { "text": "were", "isCorrect": true, "option_id": "option-3" },
+            { "text": "be", "isCorrect": false, "option_id": "option-4" }
+          ]
+        },
+        {
+          "id": "grammar-4",
+          "type": "reading",
+          "subtype": "multiple-choice",
+          "questionText": "Choose the passive form: The cake _____ by Sarah.",
+          "clue": "Use the correct form of 'be' with the past participle.",
+          "options": [
+            { "text": "was baked", "isCorrect": true, "option_id": "option-1" },
+            { "text": "baked", "isCorrect": false, "option_id": "option-2" },
+            {
+              "text": "is baking",
+              "isCorrect": false,
+              "option_id": "option-3"
+            },
+            { "text": "bakes", "isCorrect": false, "option_id": "option-4" }
+          ]
+        },
+        {
+          "id": "grammar-5",
+          "type": "reading",
+          "subtype": "image-based",
+          "questionText": "Identify the correct preposition: The cat is _____ the table.",
+          "imageUrl": "/src/assets/Reading/cat under the table.png",
+          "clue": "Look at where the cat is in relation to the table.",
+          "options": [
+            { "text": "on", "isCorrect": false, "option_id": "option-1" },
+            { "text": "in", "isCorrect": false, "option_id": "option-2" },
+            { "text": "under", "isCorrect": true, "option_id": "option-3" },
+            { "text": "over", "isCorrect": false, "option_id": "option-4" }
+          ]
+        },
+        {
+          "id": "grammar-6",
+          "type": "reading",
+          "subtype": "multiple-choice",
+          "questionText": "Which is the correct question form?",
+          "clue": "It must start with a helping verb.",
+          "options": [
+            {
+              "text": "You are coming?",
+              "isCorrect": false,
+              "option_id": "option-1"
+            },
+            {
+              "text": "Are you coming?",
+              "isCorrect": true,
+              "option_id": "option-2"
+            },
+            {
+              "text": "Coming you are?",
+              "isCorrect": false,
+              "option_id": "option-3"
+            },
+            {
+              "text": "You coming?",
+              "isCorrect": false,
+              "option_id": "option-4"
+            }
+          ]
+        },
+        {
+          "id": "grammar-7",
+          "type": "reading",
+          "subtype": "multiple-choice",
+          "questionText": "Choose the sentence with correct article usage.",
+          "clue": "Think about when to use 'a', 'an', or 'the'.",
+          "options": [
+            {
+              "text": "I saw a elephant.",
+              "isCorrect": false,
+              "option_id": "option-1"
+            },
+            {
+              "text": "I saw an elephant.",
+              "isCorrect": true,
+              "option_id": "option-2"
+            },
+            {
+              "text": "I saw the elephant big.",
+              "isCorrect": false,
+              "option_id": "option-3"
+            },
+            {
+              "text": "I saw elephant.",
+              "isCorrect": false,
+              "option_id": "option-4"
+            }
+          ]
+        },
+        {
+          "id": "grammar-8",
+          "type": "reading",
+          "subtype": "multiple-choice",
+          "questionText": "Choose the correct comparative form: This book is _____ than that one.",
+          "clue": "Short adjectives usually end in -er in comparative form.",
+          "options": [
+            {
+              "text": "interesting",
+              "isCorrect": false,
+              "option_id": "option-1"
+            },
+            {
+              "text": "more interesting",
+              "isCorrect": true,
+              "option_id": "option-2"
+            },
+            {
+              "text": "interestinger",
+              "isCorrect": false,
+              "option_id": "option-3"
+            },
+            {
+              "text": "most interesting",
+              "isCorrect": false,
+              "option_id": "option-4"
+            }
+          ]
+        },
+        {
+          "id": "grammar-9",
+          "type": "reading",
+          "subtype": "image-based",
+          "questionText": "What is the correct tense for this picture showing a man running?",
+          "imageUrl": "/src/assets/Reading/Man running.png",
+          "clue": "He is currently in motion.",
+          "options": [
+            { "text": "He ran.", "isCorrect": false, "option_id": "option-1" },
+            {
+              "text": "He is running.",
+              "isCorrect": true,
+              "option_id": "option-2"
+            },
+            { "text": "He runs.", "isCorrect": false, "option_id": "option-3" },
+            { "text": "He run.", "isCorrect": false, "option_id": "option-4" }
+          ]
+        },
+        {
+          "id": "grammar-10",
+          "type": "reading",
+          "subtype": "multiple-choice",
+          "questionText": "Which sentence is in future tense?",
+          "clue": "Look for modal + base verb.",
+          "options": [
+            {
+              "text": "She goes to school.",
+              "isCorrect": false,
+              "option_id": "option-1"
+            },
+            {
+              "text": "She is going to school.",
+              "isCorrect": false,
+              "option_id": "option-2"
+            },
+            {
+              "text": "She went to school.",
+              "isCorrect": false,
+              "option_id": "option-3"
+            },
+            {
+              "text": "She will go to school.",
+              "isCorrect": true,
+              "option_id": "option-4"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Vocabulary Builder Packages",
+      "type": "reading",
+      "package_id": "vocabulary",
+      "questions": [
+        {
+          "id": "vocabulary-1",
+          "type": "reading",
+          "subtype": "multiple-choice",
+          "questionText": "Choose the word that means the same as 'happy'.",
+          "clue": "Look for a synonym of 'happy'.",
+          "options": [
+            { "text": "sad", "isCorrect": false, "option_id": "option-1" },
+            { "text": "angry", "isCorrect": false, "option_id": "option-2" },
+            { "text": "joyful", "isCorrect": true, "option_id": "option-3" },
+            { "text": "tired", "isCorrect": false, "option_id": "option-4" }
+          ]
+        },
+        {
+          "id": "vocabulary-2",
+          "type": "reading",
+          "subtype": "image-based",
+          "questionText": "What is the name of this object?",
+          "imageUrl": "/src/assets/Reading/apple.png",
+          "clue": "It's a common fruit, usually red or green.",
+          "options": [
+            { "text": "banana", "isCorrect": false, "option_id": "option-1" },
+            { "text": "apple", "isCorrect": true, "option_id": "option-2" },
+            { "text": "grape", "isCorrect": false, "option_id": "option-3" },
+            { "text": "orange", "isCorrect": false, "option_id": "option-4" }
+          ]
+        },
+        {
+          "id": "vocabulary-3",
+          "type": "reading",
+          "subtype": "multiple-choice",
+          "questionText": "Choose the opposite of 'fast'.",
+          "clue": "Think about speed.",
+          "options": [
+            { "text": "slow", "isCorrect": true, "option_id": "option-1" },
+            { "text": "quick", "isCorrect": false, "option_id": "option-2" },
+            { "text": "rapid", "isCorrect": false, "option_id": "option-3" },
+            { "text": "speedy", "isCorrect": false, "option_id": "option-4" }
+          ]
+        },
+        {
+          "id": "vocabulary-4",
+          "type": "reading",
+          "subtype": "image-based",
+          "questionText": "Identify the action in the image.",
+          "imageUrl": "/src/assets/Reading/girl jumping.png",
+          "clue": "What verb describes this action?",
+          "options": [
+            { "text": "running", "isCorrect": false, "option_id": "option-1" },
+            { "text": "jumping", "isCorrect": true, "option_id": "option-2" },
+            { "text": "walking", "isCorrect": false, "option_id": "option-3" },
+            { "text": "sitting", "isCorrect": false, "option_id": "option-4" }
+          ]
+        },
+        {
+          "id": "vocabulary-5",
+          "type": "reading",
+          "subtype": "multiple-choice",
+          "questionText": "Which word means the same as 'small'?",
+          "clue": "Synonym of 'small'.",
+          "options": [
+            { "text": "tiny", "isCorrect": true, "option_id": "option-1" },
+            { "text": "big", "isCorrect": false, "option_id": "option-2" },
+            { "text": "huge", "isCorrect": false, "option_id": "option-3" },
+            { "text": "giant", "isCorrect": false, "option_id": "option-4" }
+          ]
+        },
+        {
+          "id": "vocabulary-6",
+          "type": "reading",
+          "subtype": "image-based",
+          "questionText": "What is the color of the object in this image?",
+          "imageUrl": "/src/assets/Reading/BlueCar.png",
+          "clue": "Name the color.",
+          "options": [
+            { "text": "red", "isCorrect": false, "option_id": "option-1" },
+            { "text": "green", "isCorrect": false, "option_id": "option-2" },
+            { "text": "blue", "isCorrect": true, "option_id": "option-3" },
+            { "text": "yellow", "isCorrect": false, "option_id": "option-4" }
+          ]
+        },
+        {
+          "id": "vocabulary-7",
+          "type": "reading",
+          "subtype": "multiple-choice",
+          "questionText": "What is the plural of 'child'?",
+          "clue": "Irregular plural form.",
+          "options": [
+            { "text": "childs", "isCorrect": false, "option_id": "option-1" },
+            { "text": "children", "isCorrect": true, "option_id": "option-2" },
+            { "text": "childes", "isCorrect": false, "option_id": "option-3" },
+            { "text": "childer", "isCorrect": false, "option_id": "option-4" }
+          ]
+        },
+        {
+          "id": "vocabulary-8",
+          "type": "reading",
+          "subtype": "multiple-choice",
+          "questionText": "Choose the correct word to complete: The sun is very _____.",
+          "clue": "Think of a word that describes brightness or heat.",
+          "options": [
+            { "text": "cold", "isCorrect": false, "option_id": "option-1" },
+            { "text": "dark", "isCorrect": false, "option_id": "option-2" },
+            { "text": "bright", "isCorrect": true, "option_id": "option-3" },
+            { "text": "small", "isCorrect": false, "option_id": "option-4" }
+          ]
+        },
+        {
+          "id": "vocabulary-9",
+          "type": "reading",
+          "subtype": "image-based",
+          "questionText": "What is this animal called?",
+          "imageUrl": "/src/assets/Reading/elephant.png",
+          "clue": "A large animal with a trunk.",
+          "options": [
+            { "text": "giraffe", "isCorrect": false, "option_id": "option-1" },
+            { "text": "elephant", "isCorrect": true, "option_id": "option-2" },
+            { "text": "hippo", "isCorrect": false, "option_id": "option-3" },
+            { "text": "rhino", "isCorrect": false, "option_id": "option-4" }
+          ]
+        },
+        {
+          "id": "vocabulary-10",
+          "type": "reading",
+          "subtype": "multiple-choice",
+          "questionText": "Which word means the same as 'cold'?",
+          "clue": "Synonym of 'cold'.",
+          "options": [
+            { "text": "hot", "isCorrect": false, "option_id": "option-1" },
+            { "text": "freezing", "isCorrect": true, "option_id": "option-2" },
+            { "text": "warm", "isCorrect": false, "option_id": "option-3" },
+            { "text": "boiling", "isCorrect": false, "option_id": "option-4" }
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Skill-Level Based Packages",
+      "type": "reading",
+      "package_id": "skill-level",
+      "questions": [
+        {
+          "id": "skill-1",
+          "type": "reading",
+          "subtype": "multiple-choice",
+          "questionText": "Choose the correct word for a beginner: '______ are my friends.'",
+          "clue": "Think of a word to introduce people.",
+          "options": [
+            { "text": "I", "isCorrect": false, "option_id": "option-1" },
+            { "text": "We", "isCorrect": true, "option_id": "option-2" },
+            { "text": "They", "isCorrect": false, "option_id": "option-3" },
+            { "text": "You", "isCorrect": false, "option_id": "option-4" }
+          ]
+        },
+        {
+          "id": "skill-2",
+          "type": "reading",
+          "subtype": "multiple-choice",
+          "questionText": "Which sentence is for an intermediate learner?",
+          "clue": "It involves a slightly more complex sentence structure.",
+          "options": [
+            {
+              "text": "I like books.",
+              "isCorrect": false,
+              "option_id": "option-1"
+            },
+            {
+              "text": "I have been to the park.",
+              "isCorrect": true,
+              "option_id": "option-2"
+            },
+            {
+              "text": "She runs fast.",
+              "isCorrect": false,
+              "option_id": "option-3"
+            },
+            {
+              "text": "The dog bark.",
+              "isCorrect": false,
+              "option_id": "option-4"
+            }
+          ]
+        },
+        {
+          "id": "skill-3",
+          "type": "reading",
+          "subtype": "multiple-choice",
+          "questionText": "Choose the correct word for an advanced learner: 'She was __________ when she heard the news.'",
+          "clue": "Think of an emotional reaction word.",
+          "options": [
+            { "text": "surprised", "isCorrect": true, "option_id": "option-1" },
+            { "text": "sleepy", "isCorrect": false, "option_id": "option-2" },
+            { "text": "calm", "isCorrect": false, "option_id": "option-3" },
+            { "text": "bored", "isCorrect": false, "option_id": "option-4" }
+          ]
+        },
+        {
+          "id": "skill-4",
+          "type": "reading",
+          "subtype": "multiple-choice",
+          "questionText": "Identify the correct word for an advanced sentence: 'He ____ traveled the world.'",
+          "clue": "Think of a perfect tense auxiliary verb.",
+          "options": [
+            { "text": "have", "isCorrect": false, "option_id": "option-1" },
+            { "text": "had", "isCorrect": true, "option_id": "option-2" },
+            { "text": "is", "isCorrect": false, "option_id": "option-3" },
+            { "text": "does", "isCorrect": false, "option_id": "option-4" }
+          ]
+        },
+        {
+          "id": "skill-5",
+          "type": "reading",
+          "subtype": "image-based",
+          "questionText": "Which word describes this image of a busy street?",
+          "imageUrl": "/src/assets/Reading/busy street.png",
+          "clue": "Look for a word that represents lots of activity.",
+          "options": [
+            { "text": "peaceful", "isCorrect": false, "option_id": "option-1" },
+            { "text": "chaotic", "isCorrect": true, "option_id": "option-2" },
+            { "text": "quiet", "isCorrect": false, "option_id": "option-3" },
+            { "text": "empty", "isCorrect": false, "option_id": "option-4" }
+          ]
+        },
+        {
+          "id": "skill-6",
+          "type": "reading",
+          "subtype": "multiple-choice",
+          "questionText": "Fill in the blank: 'I ____ a movie yesterday.'",
+          "clue": "Consider the correct past tense of the verb.",
+          "options": [
+            { "text": "watched", "isCorrect": true, "option_id": "option-1" },
+            { "text": "watch", "isCorrect": false, "option_id": "option-2" },
+            {
+              "text": "will watch",
+              "isCorrect": false,
+              "option_id": "option-3"
+            },
+            { "text": "watching", "isCorrect": false, "option_id": "option-4" }
+          ]
+        },
+        {
+          "id": "skill-7",
+          "type": "reading",
+          "subtype": "multiple-choice",
+          "questionText": "Choose the right term for a beginner: 'I __________ a book.'",
+          "clue": "It's the action of reading.",
+          "options": [
+            { "text": "wrote", "isCorrect": false, "option_id": "option-1" },
+            { "text": "read", "isCorrect": true, "option_id": "option-2" },
+            { "text": "listen", "isCorrect": false, "option_id": "option-3" },
+            { "text": "eating", "isCorrect": false, "option_id": "option-4" }
+          ]
+        },
+        {
+          "id": "skill-8",
+          "type": "reading",
+          "subtype": "multiple-choice",
+          "questionText": "What is the past tense of 'run'?",
+          "clue": "Use the verb in the past form.",
+          "options": [
+            { "text": "ran", "isCorrect": true, "option_id": "option-1" },
+            { "text": "runned", "isCorrect": false, "option_id": "option-2" },
+            { "text": "running", "isCorrect": false, "option_id": "option-3" },
+            { "text": "run", "isCorrect": false, "option_id": "option-4" }
+          ]
+        },
+        {
+          "id": "skill-9",
+          "type": "reading",
+          "subtype": "multiple-choice",
+          "questionText": "Choose the correct word: 'She _____ to the store.'",
+          "clue": "Consider the present continuous tense.",
+          "options": [
+            { "text": "goes", "isCorrect": false, "option_id": "option-1" },
+            { "text": "going", "isCorrect": true, "option_id": "option-2" },
+            { "text": "gone", "isCorrect": false, "option_id": "option-3" },
+            { "text": "is go", "isCorrect": false, "option_id": "option-4" }
+          ]
+        },
+        {
+          "id": "skill-10",
+          "type": "reading",
+          "subtype": "multiple-choice",
+          "questionText": "Identify the correct preposition: 'The ball is __________ the box.'",
+          "clue": "Look for the correct relationship between the ball and the box.",
+          "options": [
+            { "text": "on", "isCorrect": false, "option_id": "option-1" },
+            { "text": "in", "isCorrect": true, "option_id": "option-2" },
+            { "text": "under", "isCorrect": false, "option_id": "option-3" },
+            { "text": "around", "isCorrect": false, "option_id": "option-4" }
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Real-Life Situations Packages",
+      "type": "reading",
+      "package_id": "real-life",
+      "questions": [
+        {
+          "id": "real-1",
+          "type": "reading",
+          "subtype": "multiple-choice",
+          "questionText": "What would you say if you wanted to buy a coffee at a café?",
+          "clue": "Think of a polite way to ask for something.",
+          "options": [
+            {
+              "text": "Give me a coffee.",
+              "isCorrect": false,
+              "option_id": "option-1"
+            },
+            {
+              "text": "I want coffee.",
+              "isCorrect": false,
+              "option_id": "option-2"
+            },
+            {
+              "text": "Could I have a coffee, please?",
+              "isCorrect": true,
+              "option_id": "option-3"
+            },
+            {
+              "text": "Give me coffee now.",
+              "isCorrect": false,
+              "option_id": "option-4"
+            }
+          ]
+        },
+        {
+          "id": "real-2",
+          "type": "reading",
+          "subtype": "multiple-choice",
+          "questionText": "Choose the best way to apologize for being late to a meeting.",
+          "clue": "Use a polite phrase for an apology.",
+          "options": [
+            {
+              "text": "Sorry I'm late.",
+              "isCorrect": true,
+              "option_id": "option-1"
+            },
+            {
+              "text": "I don't care.",
+              "isCorrect": false,
+              "option_id": "option-2"
+            },
+            {
+              "text": "I'm late, deal with it.",
+              "isCorrect": false,
+              "option_id": "option-3"
+            },
+            {
+              "text": "I was busy.",
+              "isCorrect": false,
+              "option_id": "option-4"
+            }
+          ]
+        },
+        {
+          "id": "real-3",
+          "type": "reading",
+          "subtype": "multiple-choice",
+          "questionText": "How do you ask for directions to the nearest supermarket?",
+          "clue": "Politely ask for help and location.",
+          "options": [
+            {
+              "text": "Where is supermarket?",
+              "isCorrect": false,
+              "option_id": "option-1"
+            },
+            {
+              "text": "Can you tell me where the supermarket is?",
+              "isCorrect": true,
+              "option_id": "option-2"
+            },
+            {
+              "text": "Supermarket is here.",
+              "isCorrect": false,
+              "option_id": "option-3"
+            },
+            {
+              "text": "Go to the supermarket.",
+              "isCorrect": false,
+              "option_id": "option-4"
+            }
+          ]
+        },
+        {
+          "id": "real-4",
+          "type": "reading",
+          "subtype": "multiple-choice",
+          "questionText": "Which sentence would you use to make a reservation at a restaurant?",
+          "clue": "Ask about availability politely.",
+          "options": [
+            {
+              "text": "Do you have a table?",
+              "isCorrect": false,
+              "option_id": "option-1"
+            },
+            {
+              "text": "I want a table.",
+              "isCorrect": false,
+              "option_id": "option-2"
+            },
+            {
+              "text": "Can I book a table for two, please?",
+              "isCorrect": true,
+              "option_id": "option-3"
+            },
+            {
+              "text": "Book me a table.",
+              "isCorrect": false,
+              "option_id": "option-4"
+            }
+          ]
+        },
+        {
+          "id": "real-5",
+          "type": "reading",
+          "subtype": "multiple-choice",
+          "questionText": "Which sentence would you say to ask for the time?",
+          "clue": "Use the correct form to politely ask.",
+          "options": [
+            {
+              "text": "What time is it?",
+              "isCorrect": true,
+              "option_id": "option-1"
+            },
+            {
+              "text": "Tell me the time.",
+              "isCorrect": false,
+              "option_id": "option-2"
+            },
+            {
+              "text": "Give me the time now.",
+              "isCorrect": false,
+              "option_id": "option-3"
+            },
+            {
+              "text": "I need time.",
+              "isCorrect": false,
+              "option_id": "option-4"
+            }
+          ]
+        },
+        {
+          "id": "real-6",
+          "type": "reading",
+          "subtype": "multiple-choice",
+          "questionText": "What do you say when you thank someone for a favor?",
+          "clue": "Express gratitude politely.",
+          "options": [
+            { "text": "Thanks.", "isCorrect": false, "option_id": "option-1" },
+            {
+              "text": "Thank you very much.",
+              "isCorrect": true,
+              "option_id": "option-2"
+            },
+            {
+              "text": "Give me more.",
+              "isCorrect": false,
+              "option_id": "option-3"
+            },
+            {
+              "text": "Okay, whatever.",
+              "isCorrect": false,
+              "option_id": "option-4"
+            }
+          ]
+        },
+        {
+          "id": "real-7",
+          "type": "reading",
+          "subtype": "multiple-choice",
+          "questionText": "What would you say when you need to leave a party early?",
+          "clue": "Make a polite excuse.",
+          "options": [
+            {
+              "text": "I’m leaving now.",
+              "isCorrect": false,
+              "option_id": "option-1"
+            },
+            {
+              "text": "I have to go, but thank you for having me.",
+              "isCorrect": true,
+              "option_id": "option-2"
+            },
+            { "text": "Bye!", "isCorrect": false, "option_id": "option-3" },
+            { "text": "I’m done.", "isCorrect": false, "option_id": "option-4" }
+          ]
+        },
+        {
+          "id": "real-8",
+          "type": "reading",
+          "subtype": "multiple-choice",
+          "questionText": "Which sentence would you use to greet someone you meet for the first time?",
+          "clue": "Polite introduction.",
+          "options": [
+            { "text": "Hi.", "isCorrect": false, "option_id": "option-1" },
+            {
+              "text": "Hello, nice to meet you.",
+              "isCorrect": true,
+              "option_id": "option-2"
+            },
+            {
+              "text": "What's up?",
+              "isCorrect": false,
+              "option_id": "option-3"
+            },
+            {
+              "text": "Who are you?",
+              "isCorrect": false,
+              "option_id": "option-4"
+            }
+          ]
+        },
+        {
+          "id": "real-9",
+          "type": "reading",
+          "subtype": "multiple-choice",
+          "questionText": "How would you express a request at a hotel?",
+          "clue": "Ask politely for something.",
+          "options": [
+            {
+              "text": "I want extra towels.",
+              "isCorrect": false,
+              "option_id": "option-1"
+            },
+            {
+              "text": "Could you please provide extra towels?",
+              "isCorrect": true,
+              "option_id": "option-2"
+            },
+            {
+              "text": "Towels now!",
+              "isCorrect": false,
+              "option_id": "option-3"
+            },
+            {
+              "text": "Give me towels.",
+              "isCorrect": false,
+              "option_id": "option-4"
+            }
+          ]
+        },
+        {
+          "id": "real-10",
+          "type": "reading",
+          "subtype": "multiple-choice",
+          "questionText": "What do you say when you bump into someone by accident?",
+          "clue": "Be polite and apologize.",
+          "options": [
+            { "text": "Sorry.", "isCorrect": true, "option_id": "option-1" },
+            {
+              "text": "Watch where you’re going.",
+              "isCorrect": false,
+              "option_id": "option-2"
+            },
+            {
+              "text": "Hey, move!",
+              "isCorrect": false,
+              "option_id": "option-3"
+            },
+            { "text": "Oops.", "isCorrect": false, "option_id": "option-4" }
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Story-Based Learning Packages",
+      "type": "reading",
+      "package_id": "story-based",
+      "questions": [
+        {
+          "id": "story-1",
+          "type": "reading",
+          "subtype": "multiple-choice",
+          "questionText": "What did the main character in the story do after the storm?",
+          "clue": "Think about the actions the character took after the storm.",
+          "options": [
+            { "text": "Ran away", "isCorrect": false, "option_id": "option-1" },
+            {
+              "text": "Stayed inside",
+              "isCorrect": true,
+              "option_id": "option-2"
+            },
+            {
+              "text": "Built a house",
+              "isCorrect": false,
+              "option_id": "option-3"
+            },
+            {
+              "text": "Called for help",
+              "isCorrect": false,
+              "option_id": "option-4"
+            }
+          ]
+        },
+        {
+          "id": "story-2",
+          "type": "reading",
+          "subtype": "multiple-choice",
+          "questionText": "What was the main character's problem in the story?",
+          "clue": "Look at the challenges the character faced.",
+          "options": [
+            {
+              "text": "Lack of food",
+              "isCorrect": false,
+              "option_id": "option-1"
+            },
+            {
+              "text": "Lost in the forest",
+              "isCorrect": true,
+              "option_id": "option-2"
+            },
+            {
+              "text": "Too many friends",
+              "isCorrect": false,
+              "option_id": "option-3"
+            },
+            {
+              "text": "Broke their leg",
+              "isCorrect": false,
+              "option_id": "option-4"
+            }
+          ]
+        },
+        {
+          "id": "story-3",
+          "type": "reading",
+          "subtype": "multiple-choice",
+          "questionText": "What did the character learn by the end of the story?",
+          "clue": "Reflect on the lesson they learned.",
+          "options": [
+            {
+              "text": "To never give up",
+              "isCorrect": true,
+              "option_id": "option-1"
+            },
+            {
+              "text": "To ignore others",
+              "isCorrect": false,
+              "option_id": "option-2"
+            },
+            {
+              "text": "To eat more food",
+              "isCorrect": false,
+              "option_id": "option-3"
+            },
+            {
+              "text": "To sleep more",
+              "isCorrect": false,
+              "option_id": "option-4"
+            }
+          ]
+        },
+        {
+          "id": "story-4",
+          "type": "reading",
+          "subtype": "multiple-choice",
+          "questionText": "Where did the main character go first after leaving home?",
+          "clue": "Think about the character’s journey.",
+          "options": [
+            {
+              "text": "The library",
+              "isCorrect": false,
+              "option_id": "option-1"
+            },
+            {
+              "text": "The forest",
+              "isCorrect": true,
+              "option_id": "option-2"
+            },
+            { "text": "The park", "isCorrect": false, "option_id": "option-3" },
+            {
+              "text": "The market",
+              "isCorrect": false,
+              "option_id": "option-4"
+            }
+          ]
+        },
+        {
+          "id": "story-5",
+          "type": "reading",
+          "subtype": "multiple-choice",
+          "questionText": "What happened to the character after meeting the stranger?",
+          "clue": "Consider how their interaction changed the story.",
+          "options": [
+            {
+              "text": "They became friends",
+              "isCorrect": true,
+              "option_id": "option-1"
+            },
+            {
+              "text": "They fought",
+              "isCorrect": false,
+              "option_id": "option-2"
+            },
+            {
+              "text": "They ignored each other",
+              "isCorrect": false,
+              "option_id": "option-3"
+            },
+            {
+              "text": "They got lost",
+              "isCorrect": false,
+              "option_id": "option-4"
+            }
+          ]
+        },
+        {
+          "id": "story-6",
+          "type": "reading",
+          "subtype": "multiple-choice",
+          "questionText": "Why was the character afraid of the forest?",
+          "clue": "Think about the dangers the character anticipated.",
+          "options": [
+            {
+              "text": "It was dark and mysterious",
+              "isCorrect": true,
+              "option_id": "option-1"
+            },
+            {
+              "text": "It was too quiet",
+              "isCorrect": false,
+              "option_id": "option-2"
+            },
+            {
+              "text": "It was too hot",
+              "isCorrect": false,
+              "option_id": "option-3"
+            },
+            {
+              "text": "There were wild animals",
+              "isCorrect": false,
+              "option_id": "option-4"
+            }
+          ]
+        },
+        {
+          "id": "story-7",
+          "type": "reading",
+          "subtype": "multiple-choice",
+          "questionText": "How did the character overcome their fear?",
+          "clue": "Reflect on their solution or strategy.",
+          "options": [
+            {
+              "text": "By ignoring it",
+              "isCorrect": false,
+              "option_id": "option-1"
+            },
+            {
+              "text": "By asking for help",
+              "isCorrect": true,
+              "option_id": "option-2"
+            },
+            {
+              "text": "By running away",
+              "isCorrect": false,
+              "option_id": "option-3"
+            },
+            {
+              "text": "By staying quiet",
+              "isCorrect": false,
+              "option_id": "option-4"
+            }
+          ]
+        },
+        {
+          "id": "story-8",
+          "type": "reading",
+          "subtype": "multiple-choice",
+          "questionText": "What was the most important lesson from the story?",
+          "clue": "Think about the moral of the story.",
+          "options": [
+            {
+              "text": "Hard work pays off",
+              "isCorrect": false,
+              "option_id": "option-1"
+            },
+            {
+              "text": "Friendship is important",
+              "isCorrect": true,
+              "option_id": "option-2"
+            },
+            {
+              "text": "Never trust strangers",
+              "isCorrect": false,
+              "option_id": "option-3"
+            },
+            {
+              "text": "Always be quiet",
+              "isCorrect": false,
+              "option_id": "option-4"
+            }
+          ]
+        },
+        {
+          "id": "story-9",
+          "type": "reading",
+          "subtype": "multiple-choice",
+          "questionText": "Why did the character return home?",
+          "clue": "Think about the ending of their journey.",
+          "options": [
+            {
+              "text": "They were tired",
+              "isCorrect": false,
+              "option_id": "option-1"
+            },
+            {
+              "text": "They completed their mission",
+              "isCorrect": true,
+              "option_id": "option-2"
+            },
+            {
+              "text": "They missed their family",
+              "isCorrect": false,
+              "option_id": "option-3"
+            },
+            {
+              "text": "They found a treasure",
+              "isCorrect": false,
+              "option_id": "option-4"
+            }
+          ]
+        },
+        {
+          "id": "story-10",
+          "type": "reading",
+          "subtype": "multiple-choice",
+          "questionText": "What obstacle did the character face in the middle of the story?",
+          "clue": "Focus on the central conflict.",
+          "options": [
+            {
+              "text": "A bad storm",
+              "isCorrect": true,
+              "option_id": "option-1"
+            },
+            {
+              "text": "Running out of food",
+              "isCorrect": false,
+              "option_id": "option-2"
+            },
+            {
+              "text": "A wild animal",
+              "isCorrect": false,
+              "option_id": "option-3"
+            },
+            {
+              "text": "A broken map",
+              "isCorrect": false,
+              "option_id": "option-4"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Personal Travel Experience in Sydney",
+      "type": "listening",
+      "package_id": "listening-1",
+      "questions": [
+        {
+          "id": "listening-1",
+          "type": "listening",
+          "questionText": "How many times has the speaker visited Sydney? ______",
+          "audioUrl": "/src/assets/Listening/Q(1-10).MP3",
+          "answer": "no / 3 times"
+        },
+        {
+          "id": "listening-2",
+          "type": "listening",
+          "questionText": "What does the speaker say is the best thing about the city? ______",
+          "audioUrl": "/src/assets/Listening/Q(1-10).MP3",
+          "answer": "climate"
+        },
+        {
+          "id": "listening-3",
+          "type": "listening",
+          "questionText": "What was the speaker's favorite attraction? ______",
+          "audioUrl": "/src/assets/Listening/Q(1-10).MP3",
+          "answer": "opera house"
+        },
+        {
+          "id": "listening-4",
+          "type": "listening",
+          "questionText": "What did the speaker say is the best thing about the dining options? ______",
+          "audioUrl": "/src/assets/Listening/Q(1-10).MP3",
+          "answer": "variety of cuisine"
+        },
+        {
+          "id": "listening-5",
+          "type": "listening",
+          "questionText": "How did the speaker travel to the destination? By ______",
+          "audioUrl": "/src/assets/Listening/Q(1-10).MP3",
+          "answer": "flight"
+        },
+        {
+          "id": "listening-6",
+          "type": "listening",
+          "questionText": "What age group does the speaker belong to? ______",
+          "audioUrl": "/src/assets/Listening/Q(1-10).MP3",
+          "answer": "older than 45"
+        },
+        {
+          "id": "listening-7",
+          "type": "listening",
+          "questionText": "What is the income level of the speaker? ______",
+          "audioUrl": "/src/assets/Listening/Q(1-10).MP3",
+          "answer": "middle range"
+        },
+        {
+          "id": "listening-8",
+          "type": "listening",
+          "questionText": "What was the purpose of the speaker's visit? ______",
+          "audioUrl": "/src/assets/Listening/Q(1-10).MP3",
+          "answer": "leisure"
+        },
+        {
+          "id": "listening-9",
+          "type": "listening",
+          "questionText": "What is the speaker's occupation? ______",
+          "audioUrl": "/src/assets/Listening/Q(1-10).MP3",
+          "answer": "web developer"
+        },
+        {
+          "id": "listening-10",
+          "type": "listening",
+          "questionText": "What is the speaker's opinion about the accommodation? ______",
+          "audioUrl": "/src/assets/Listening/Q(1-10).MP3",
+          "answer": "great deal"
+        }
+      ]
+    },
+    {
+      "name": "City Map Navigation and Landmarks",
+      "type": "listening",
+      "package_id": "listening-2",
+      "questions": [
+        {
+          "id": "listening-11",
+          "type": "listening",
+          "questionText": "Label the Innovation Center on the map.",
+          "audioUrl": "/src/assets/Listening/Q(11-15).MP3",
+          "answer": "B"
+        },
+        {
+          "id": "listening-12",
+          "type": "listening",
+          "questionText": "Label the Heritage Museum on the map.",
+          "audioUrl": "/src/assets/Listening/Q(11-15).MP3",
+          "answer": "A"
+        },
+        {
+          "id": "listening-13",
+          "type": "listening",
+          "questionText": "Label the Parking on the map.",
+          "audioUrl": "/src/assets/Listening/Q(11-15).MP3",
+          "answer": "E"
+        },
+        {
+          "id": "listening-14",
+          "type": "listening",
+          "questionText": "Label the Retail Plaza on the map.",
+          "audioUrl": "/src/assets/Listening/Q(11-15).MP3",
+          "answer": "C"
+        },
+        {
+          "id": "listening-15",
+          "type": "listening",
+          "questionText": "Label the Academy on the map.",
+          "audioUrl": "/src/assets/Listening/Q(11-15).MP3",
+          "answer": "D"
+        }
+      ]
+    },
+    {
+      "name": "Improvements in Area Attractions",
+      "type": "listening",
+      "package_id": "listening-3",
+      "questions": [
+        {
+          "id": "listening-16",
+          "type": "listening",
+          "questionText": "What is the improvement made to the Multi-level Garage?",
+          "audioUrl": "/src/assets/Listening/Q16-20.MP3",
+          "answer": "E"
+        },
+        {
+          "id": "listening-17",
+          "type": "listening",
+          "questionText": "What is the improvement made to the Academy?",
+          "audioUrl": "/src/assets/Listening/Q16-20.MP3",
+          "answer": "G"
+        },
+        {
+          "id": "listening-18",
+          "type": "listening",
+          "questionText": "What is the improvement made to the Innovation Center?",
+          "audioUrl": "/src/assets/Listening/Q16-20.MP3",
+          "answer": "C"
+        },
+        {
+          "id": "listening-19",
+          "type": "listening",
+          "questionText": "What is the improvement made to the Heritage Museum?",
+          "audioUrl": "/src/assets/Listening/Q16-20.MP3",
+          "answer": "D"
+        },
+        {
+          "id": "listening-20",
+          "type": "listening",
+          "questionText": "What is the improvement made to the Retail Plaza?",
+          "audioUrl": "/src/assets/Listening/Q16-20.MP3",
+          "answer": "A"
+        }
+      ]
+    },
+    {
+      "name": "Dissertation Preparation and Expectations",
+      "type": "listening",
+      "package_id": "listening-4",
+      "questions": [
+        {
+          "id": "listening-21",
+          "type": "listening",
+          "questionText": "The mentor explains that the project topic submission will...",
+          "audioUrl": "/src/assets/Listening/Q(21-23).MP3",
+          "answer": "receive comments from the professors"
+        },
+        {
+          "id": "listening-22",
+          "type": "listening",
+          "questionText": "The most important part of the dissertation will be the...",
+          "audioUrl": "/src/assets/Listening/Q(21-23).MP3",
+          "answer": "research methodology"
+        },
+        {
+          "id": "listening-23",
+          "type": "listening",
+          "questionText": "For the practice assignment, students must...",
+          "audioUrl": "/src/assets/Listening/Q(21-23).MP3",
+          "answer": "be mindful of the time constraint"
+        }
+      ]
+    },
+    {
+      "name": "Final Report Guidelines and Submission Details",
+      "type": "listening",
+      "package_id": "listening-5",
+      "questions": [
+        {
+          "id": "listening-24",
+          "type": "listening",
+          "questionText": "There is no need to conduct multiple ______.",
+          "audioUrl": "/src/assets/Listening/Q(24-30).MP3",
+          "answer": "surveys"
+        },
+        {
+          "id": "listening-25",
+          "type": "listening",
+          "questionText": "Pay attention to the ______ of the final report.",
+          "audioUrl": "/src/assets/Listening/Q(24-30).MP3",
+          "answer": "formatting"
+        },
+        {
+          "id": "listening-26",
+          "type": "listening",
+          "questionText": "Prepare two ______: one for the professor and another for personal reference.",
+          "audioUrl": "/src/assets/Listening/Q(24-30).MP3",
+          "answer": "copies"
+        },
+        {
+          "id": "listening-27",
+          "type": "listening",
+          "questionText": "The deadline of the final paper is ______.",
+          "audioUrl": "/src/assets/Listening/Q(24-30).MP3",
+          "answer": "April 12"
+        },
+        {
+          "id": "listening-28",
+          "type": "listening",
+          "questionText": "The students can ______ their topics before the start of March.",
+          "audioUrl": "/src/assets/Listening/Q(24-30).MP3",
+          "answer": "change"
+        },
+        {
+          "id": "listening-29",
+          "type": "listening",
+          "questionText": "Students deciding to change topics must deliver a ______ to the professor in advance.",
+          "audioUrl": "/src/assets/Listening/Q(24-30).MP3",
+          "answer": "note"
+        },
+        {
+          "id": "listening-30",
+          "type": "listening",
+          "questionText": "At the beginning of the report, the hypothesis and an outline of the ______ are needed.",
+          "audioUrl": "/src/assets/Listening/Q(24-30).MP3",
+          "answer": "outline"
+        }
+      ]
+    }
+  ]
+}

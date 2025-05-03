@@ -1,0 +1,106 @@
+{
+  "student_id": "student123",
+  "name": "John Doe",
+  "exams": [
+    {
+      "exam_id": "exam001",
+      "package_id": "package01",
+      "package_name": "Skill-Level Based Packages",
+      "total_questions": 10,
+      "time_taken": "2min 13sec",
+      "score": 85,
+      "date": "2025-03-01",
+      "status": "passed"
+    },
+    {
+      "exam_id": "exam002",
+      "package_id": "package02",
+      "package_name": "Basic Math Concepts",
+      "total_questions": 12,
+      "time_taken": "3min 45sec",
+      "score": 92,
+      "date": "2025-03-05",
+      "status": "passed"
+    },
+    {
+      "exam_id": "exam003",
+      "package_id": "package03",
+      "package_name": "Advanced Science Topics",
+      "total_questions": 15,
+      "time_taken": "4min 30sec",
+      "score": 72,
+      "date": "2025-03-10",
+      "status": "failed"
+    },
+    {
+      "exam_id": "exam004",
+      "package_id": "package04",
+      "package_name": "English Language Skills",
+      "total_questions": 20,
+      "time_taken": "5min 00sec",
+      "score": 65,
+      "date": "2025-03-15",
+      "status": "failed"
+    },
+    {
+      "exam_id": "exam005",
+      "package_id": "package05",
+      "package_name": "History Knowledge",
+      "total_questions": 18,
+      "time_taken": "6min 10sec",
+      "score": 90,
+      "date": "2025-03-20",
+      "status": "passed"
+    },
+    {
+      "exam_id": "exam006",
+      "package_id": "package06",
+      "package_name": "Geography Mastery",
+      "total_questions": 25,
+      "time_taken": "7min 05sec",
+      "score": 88,
+      "date": "2025-03-25",
+      "status": "passed"
+    },
+    {
+      "exam_id": "exam007",
+      "package_id": "package07",
+      "package_name": "Programming Fundamentals",
+      "total_questions": 14,
+      "time_taken": "3min 20sec",
+      "score": 79,
+      "date": "2025-03-30",
+      "status": "failed"
+    },
+    {
+      "exam_id": "exam008",
+      "package_id": "package08",
+      "package_name": "Physics Concepts",
+      "total_questions": 17,
+      "time_taken": "5min 30sec",
+      "score": 84,
+      "date": "2025-04-05",
+      "status": "passed"
+    },
+    {
+      "exam_id": "exam009",
+      "package_id": "package09",
+      "package_name": "Chemistry Essentials",
+      "total_questions": 20,
+      "time_taken": "4min 50sec",
+      "score": 91,
+      "date": "2025-04-10",
+      "status": "passed"
+    },
+    {
+      "exam_id": "exam010",
+      "package_id": "package10",
+      "package_name": "Literature Review",
+      "total_questions": 16,
+      "time_taken": "4min 15sec",
+      "score": 77,
+      "date": "2025-04-15",
+      "status": "failed"
+    }
+  ]
+}
